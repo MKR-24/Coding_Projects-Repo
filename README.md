@@ -1,2 +1,1 @@
-#Coding Projects
-Repo for Coding Projects
+#Coding Projects Repo
