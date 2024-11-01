@@ -1,2 +1,2 @@
-# 100Days_Coding
-Repo for DSA and CPP and oher coding oriented stuff
+#Coding Projects
+Repo for Coding Projects
